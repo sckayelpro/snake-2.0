@@ -7,7 +7,7 @@ body {
 }
 
 #game-board-container {
-  max-width: 360px;
+  max-width: 320px;
   /* Máximo ancho para mantener el tamaño adecuado */
   margin: 10px auto;
 }
